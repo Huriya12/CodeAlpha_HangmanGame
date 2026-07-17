@@ -39,6 +39,7 @@ A classic paper-and-pencil game turned text-based computer challenge, where a pl
 1. Run the script in your terminal:
 
   `python hangman_game.py`
+  
 2. Type ‘yes’ when asked if you’re ready to play
 3. Guess letter one at a time
 4. Win by guessing the full word, or lose if you run out of chances
