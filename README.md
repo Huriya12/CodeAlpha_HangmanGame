@@ -24,23 +24,21 @@ A classic paper-and-pencil game turned text-based computer challenge, where a pl
 
 ## Installation
 1. Make sure Python 3 is installed on your machine. To check run:
-```bash
-python --version
-```
+
+  `python --version`
+
 2. Clone the repository:
-```bash
-git clone https://github.com/Huriya12/CodeAlpha_HangmanGame.git
-```
+
+  `git clone https://github.com/Huriya12/CodeAlpha_HangmanGame.git`
+  
 3. Move into the project folder:
-```bash
-cd CodeAlpha_HangmanGame
-```
+
+  `cd CodeAlpha_HangmanGame`
 
 ## How to use:
 1. Run the script in your terminal:
-```bash
-python hangman_game.py
-```
+
+  `python hangman_game.py`
 2. Type ‘yes’ when asked if you’re ready to play
 3. Guess letter one at a time
 4. Win by guessing the full word, or lose if you run out of chances
